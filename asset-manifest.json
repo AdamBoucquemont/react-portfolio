@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/test-deploy/static/css/main.08ab821a.css",
-    "main.js": "/test-deploy/static/js/main.0600a327.js",
-    "static/js/453.b05d8aa5.chunk.js": "/test-deploy/static/js/453.b05d8aa5.chunk.js",
-    "static/media/Photo profil.jpg": "/test-deploy/static/media/Photo profil.6e4f1754470cd1a7e86e.jpg",
-    "static/media/Galactik Football.png": "/test-deploy/static/media/Galactik Football.b3fcb7046a216d6b841e.png",
-    "static/media/Warr'UTT.png": "/test-deploy/static/media/Warr'UTT.046f667733185e2d87bd.png",
-    "static/media/bg-light.png": "/test-deploy/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/Photimal.png": "/test-deploy/static/media/Photimal.697ec7ebd4df055be997.png",
-    "static/media/bg-dark.png": "/test-deploy/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/simulation_hopital.png": "/test-deploy/static/media/simulation_hopital.905fa9f410473fdbdcfd.png",
-    "static/media/ProxySanté.png": "/test-deploy/static/media/ProxySanté.6ec9e0d7333ebfc717b2.png",
-    "static/media/Aubay.png": "/test-deploy/static/media/Aubay.1a831baf68b365259e14.png",
-    "static/media/Grytics.png": "/test-deploy/static/media/Grytics.a47d9fdeffca50a7237a.png",
-    "static/media/No_image_available.png": "/test-deploy/static/media/No_image_available.7266af89b85529c42955.png",
-    "static/media/CILLA.png": "/test-deploy/static/media/CILLA.6e47148076590097e5d6.png",
-    "static/media/witch_hunt_carte.jpg": "/test-deploy/static/media/witch_hunt_carte.69f5e038d5638d6a19e9.jpg",
-    "static/media/mvc.png": "/test-deploy/static/media/mvc.6414e9424d1702b3e23f.png",
-    "index.html": "/test-deploy/index.html",
-    "main.08ab821a.css.map": "/test-deploy/static/css/main.08ab821a.css.map",
-    "main.0600a327.js.map": "/test-deploy/static/js/main.0600a327.js.map",
-    "453.b05d8aa5.chunk.js.map": "/test-deploy/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/react-portolio/static/css/main.2d21495d.css",
+    "main.js": "/react-portolio/static/js/main.3504a779.js",
+    "static/js/453.b05d8aa5.chunk.js": "/react-portolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Photo profil.jpg": "/react-portolio/static/media/Photo profil.6e4f1754470cd1a7e86e.jpg",
+    "static/media/Galactik Football.png": "/react-portolio/static/media/Galactik Football.b3fcb7046a216d6b841e.png",
+    "static/media/Warr'UTT.png": "/react-portolio/static/media/Warr'UTT.046f667733185e2d87bd.png",
+    "static/media/bg-light.png": "/react-portolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/Photimal.png": "/react-portolio/static/media/Photimal.697ec7ebd4df055be997.png",
+    "static/media/bg-dark.png": "/react-portolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/simulation_hopital.png": "/react-portolio/static/media/simulation_hopital.905fa9f410473fdbdcfd.png",
+    "static/media/ProxySanté.png": "/react-portolio/static/media/ProxySanté.6ec9e0d7333ebfc717b2.png",
+    "static/media/Aubay.png": "/react-portolio/static/media/Aubay.1a831baf68b365259e14.png",
+    "static/media/Grytics.png": "/react-portolio/static/media/Grytics.a47d9fdeffca50a7237a.png",
+    "static/media/No_image_available.png": "/react-portolio/static/media/No_image_available.7266af89b85529c42955.png",
+    "static/media/CILLA.png": "/react-portolio/static/media/CILLA.6e47148076590097e5d6.png",
+    "static/media/witch_hunt_carte.jpg": "/react-portolio/static/media/witch_hunt_carte.69f5e038d5638d6a19e9.jpg",
+    "static/media/mvc.png": "/react-portolio/static/media/mvc.6414e9424d1702b3e23f.png",
+    "index.html": "/react-portolio/index.html",
+    "main.2d21495d.css.map": "/react-portolio/static/css/main.2d21495d.css.map",
+    "main.3504a779.js.map": "/react-portolio/static/js/main.3504a779.js.map",
+    "453.b05d8aa5.chunk.js.map": "/react-portolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08ab821a.css",
-    "static/js/main.0600a327.js"
+    "static/css/main.2d21495d.css",
+    "static/js/main.3504a779.js"
   ]
 }
