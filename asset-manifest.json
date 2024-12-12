@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/test-deploy/static/css/main.7c4f73b5.css",
-    "main.js": "/test-deploy/static/js/main.de3c4fd1.js",
+    "main.css": "/test-deploy/static/css/main.08ab821a.css",
+    "main.js": "/test-deploy/static/js/main.0600a327.js",
     "static/js/453.b05d8aa5.chunk.js": "/test-deploy/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock10.png": "/test-deploy/static/media/mock10.2d05b02ba569a430a255.png",
-    "static/media/mock09.png": "/test-deploy/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/test-deploy/static/media/mock08.13f46873fdbd382f4b76.png",
-    "static/media/mock04.png": "/test-deploy/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/Photo profil.jpg": "/test-deploy/static/media/Photo profil.6e4f1754470cd1a7e86e.jpg",
+    "static/media/Galactik Football.png": "/test-deploy/static/media/Galactik Football.b3fcb7046a216d6b841e.png",
+    "static/media/Warr'UTT.png": "/test-deploy/static/media/Warr'UTT.046f667733185e2d87bd.png",
     "static/media/bg-light.png": "/test-deploy/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock07.png": "/test-deploy/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/test-deploy/static/media/mock05.4faafa70d200d1519a34.png",
-    "static/media/mock06.png": "/test-deploy/static/media/mock06.ea816617e0d0fa0f63ca.png",
+    "static/media/Photimal.png": "/test-deploy/static/media/Photimal.697ec7ebd4df055be997.png",
     "static/media/bg-dark.png": "/test-deploy/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock01.png": "/test-deploy/static/media/mock01.61bd486a54bf6e17ee5a.png",
-    "static/media/mock02.png": "/test-deploy/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/test-deploy/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/simulation_hopital.png": "/test-deploy/static/media/simulation_hopital.905fa9f410473fdbdcfd.png",
+    "static/media/ProxySanté.png": "/test-deploy/static/media/ProxySanté.6ec9e0d7333ebfc717b2.png",
+    "static/media/Aubay.png": "/test-deploy/static/media/Aubay.1a831baf68b365259e14.png",
+    "static/media/Grytics.png": "/test-deploy/static/media/Grytics.a47d9fdeffca50a7237a.png",
+    "static/media/No_image_available.png": "/test-deploy/static/media/No_image_available.7266af89b85529c42955.png",
+    "static/media/CILLA.png": "/test-deploy/static/media/CILLA.6e47148076590097e5d6.png",
+    "static/media/witch_hunt_carte.jpg": "/test-deploy/static/media/witch_hunt_carte.69f5e038d5638d6a19e9.jpg",
+    "static/media/mvc.png": "/test-deploy/static/media/mvc.6414e9424d1702b3e23f.png",
     "index.html": "/test-deploy/index.html",
-    "main.7c4f73b5.css.map": "/test-deploy/static/css/main.7c4f73b5.css.map",
-    "main.de3c4fd1.js.map": "/test-deploy/static/js/main.de3c4fd1.js.map",
+    "main.08ab821a.css.map": "/test-deploy/static/css/main.08ab821a.css.map",
+    "main.0600a327.js.map": "/test-deploy/static/js/main.0600a327.js.map",
     "453.b05d8aa5.chunk.js.map": "/test-deploy/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c4f73b5.css",
-    "static/js/main.de3c4fd1.js"
+    "static/css/main.08ab821a.css",
+    "static/js/main.0600a327.js"
   ]
 }
